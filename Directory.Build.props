@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <Version>2.2.5</Version>
+    <Authors>aforge.net</Authors>
+    <Product>AForge.NET</Product>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+</Project>
